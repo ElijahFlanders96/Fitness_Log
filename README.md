@@ -2,6 +2,9 @@
 
 # Fitness Log
 
+<img src="fitlog1.png">
+<img src="fitlogdash1.png">
+
 ## Table of Contents
 * [Description](#Description)
 * [Installation Instruction](#Installation-Instructions)
